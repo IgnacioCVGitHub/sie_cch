@@ -1,2 +1,2 @@
 # sie_cch
-Repo para SIE
+Este repositorio se va a dedicar a la asignatura de II-TI de la US llamada SIE.
